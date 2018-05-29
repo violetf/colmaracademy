@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+/*Navbar*/
+header{
+  width: 100%;
+  height: 64px;
+  background-color: white;
+}
+
+.navleft img{
+  padding-left: 24px;
+}
+
+.navleft{
+  height: 32px;
+  display: inline;
+}
+
+.navleft{
+  justify-content: flex-start;
+  display: inline;
+}
